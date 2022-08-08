@@ -40,7 +40,7 @@ services:
   enabled: true
   heading: "Our Services"
   sub_heading: ""
-  limit: 6
+  limit: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
   view_more_button_link: "/services"
