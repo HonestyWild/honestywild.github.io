@@ -4,7 +4,7 @@ permalink: "/"
 title: "Honesty Wild"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: Honesty Wild - 3D Interactive Artist
+meta_title: Honesty Wild - Interactive Content Developer
 
 hero:
   enabled: true
