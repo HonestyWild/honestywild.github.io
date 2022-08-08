@@ -1,11 +1,11 @@
 ---
-title: "Branding"
+title: "Content Creation Tool"
 description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
 weight: 3 #배치 순서
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
+icon: "assets/images/icons/icon-park-outline_ipad-one.png"
 thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
 image: "/assets/images/gen/services/service-3.webp"
 

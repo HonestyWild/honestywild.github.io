@@ -1,17 +1,17 @@
 ---
-title: "Web Development"
+title: "Mobile Game"
 description: "Our experienced software engineers develop websites and desktop applications"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-source-code-100.png"
+icon: "assets/images/icons/jam_gamepad-retro.png"
 thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
 image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Web Development"
+  heading: "Mobile Game"
   sub_heading: "Our experienced software engineers develop websites and desktop applications"
   text_color: "#FFFFFF"
   background_color: ""

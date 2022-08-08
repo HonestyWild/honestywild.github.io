@@ -1,17 +1,17 @@
 ---
-title: "Web Design"
+title: "Automotive"
 description: "Design beautiful modern websites using the Jamstack."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
+icon: "assets/images/icons/bx_car.png"
 thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
 image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
+  heading: "Automotive"
   sub_heading: "Design beautiful modern websites using the Jamstack."
   text_color: "#ffffff"
   background_color: ""

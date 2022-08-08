@@ -1,17 +1,17 @@
 ---
-title: "SEO"
+title: "Visualization"
 description: "Improving search engine rankings through techincal on page SEO and content creation."
 date: 2021-07-23
 weight: 5
 header_transparent: true
 fa_icon: "far fa-chart-bar"
-icon: "assets/images/icons/icons8-bar-chart-100.png"
+icon: "assets/images/icons/clarity_ruler-pencil-line.png"
 thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
 image: "/assets/images/gen/services/service-5.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
+  heading: "Visualization"
   sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
   text_color: "#ffffff"
   background_color: ""
