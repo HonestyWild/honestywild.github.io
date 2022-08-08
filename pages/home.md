@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
+title: "Honesty Wild"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
 meta_title: Jekyll Advance - Premium Jekyll Theme
@@ -9,9 +9,9 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 hero:
   enabled: true
   heading: "Honesty Wild"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  sub_heading: "Honesty Wild(어니스티 와일드)는 가상 공간으로 현실의 새로운 가치를 창출합니다."
   text_color: "#FFFFFF"
-  background_color: "#1d2830"
+  background_color: "#295A52" #1d2830
   background_gradient: true
   background_image: "/assets/images/gen/home/home-1-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
@@ -46,7 +46,7 @@ services:
   view_more_button_link: "/services"
 
 intro:
-  enabled: true
+  enabled: false
   align: left
   image: "/assets/images/gen/content/content-6-thumbnail.webp"
   heading: "We've helped hundreds of people grow their business online."
@@ -74,7 +74,7 @@ intro:
         style: "primary"
 
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: "weight" # 'date'
 

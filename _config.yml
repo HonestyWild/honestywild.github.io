@@ -81,43 +81,43 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary: "#2b3af7" #"#000000" #
-  primary_2: "#424ff8"
+  primary: "#295A52" #"#000000" #
+  primary_2: "#393F3E"
   primary_text: "#fdfcf9"
-  secondary: "#702bf7"
+  secondary: "#212529"
   background: "#ffffff"
-  background_2: "#f8f9ff"
-  background_3: "#eef2f9"
-  text: "#0d042b"
-  text_2: "#3b364c"
+  background_2: "#EEF4F3"
+  background_3: "#D5E2E0"
+  text: "#272727"
+  text_2: "#383838"
 
   # dark-mode colors
-  primary_dark: "#4486f2"
-  primary_2_dark: "#2f74e5"
+  primary_dark: "#759A93"
+  primary_2_dark: "#131313"
   primary_text_dark: "#fdfcf9"
-  secondary_dark: "#8215cb"
-  background_dark: "#0f0f10"
-  background_2_dark: "#1a191c"
+  secondary_dark: "#212529"
+  background_dark: "#131313"
+  background_2_dark: "#131313"
   background_3_dark: "#222124"
-  text_dark: "#f5f5ec"
-  text_2_dark: "#b6c3d6"
+  text_dark: "#EEF4F3"
+  text_2_dark: "#D5E2E0"
 
 
 fonts:
-  google_fonts: "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Lato:wght@300;400;700&family=Source+Sans+Pro:wght@300;400;700&display=swap"
-  heading: "Lato"
-  base: "Source Sans Pro"
-  monospace: "Fira Mono"
-  logo: "Lato"
+  google_fonts: "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap"
+  heading: "Noto Sans KR"
+  base: "Noto Sans KR"
+  monospace: "Noto Sans KR"
+  logo: "Noto Sans KR"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "Honesty wild"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "30px"
-  logo_image_desktop_width: "132px"
+  logo_image_desktop_height: "58px"
+  logo_image_desktop_width: "184px"
   logo_image_mobile_height: "30px"
   logo_image_mobile_width: "34px"
   show_logo_image_on_mobile: true
