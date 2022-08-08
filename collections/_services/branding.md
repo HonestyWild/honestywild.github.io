@@ -2,7 +2,7 @@
 title: "Branding"
 description: "The expression of a brand including its name, trademark, and visual appearance."
 date: 2019-10-03
-weight: 3
+weight: 3 #배치 순서
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-color-palette-100.png"
