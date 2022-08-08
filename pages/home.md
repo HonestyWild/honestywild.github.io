@@ -9,7 +9,7 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 hero:
   enabled: true
   heading: "Honesty Wild"
-  sub_heading: "Honesty Wild(어니스티 와일드)는 가상 공간으로 현실의 새로운 가치를 창출합니다."
+  sub_heading: "가상 공간으로 현실의 새로운 가치를 창출합니다."
   text_color: "#FFFFFF"
   background_color: "#295A52" #1d2830
   background_gradient: true

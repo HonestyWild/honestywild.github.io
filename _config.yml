@@ -84,7 +84,7 @@ colors:
   primary: "#295A52" #"#000000" #
   primary_2: "#393F3E"
   primary_text: "#fdfcf9"
-  secondary: "#212529"
+  secondary: "#2f4c47"
   background: "#ffffff"
   background_2: "#EEF4F3"
   background_3: "#D5E2E0"
@@ -95,7 +95,7 @@ colors:
   primary_dark: "#759A93"
   primary_2_dark: "#131313"
   primary_text_dark: "#fdfcf9"
-  secondary_dark: "#212529"
+  secondary_dark: "#2f4c47"
   background_dark: "#131313"
   background_2_dark: "#131313"
   background_3_dark: "#222124"
