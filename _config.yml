@@ -112,10 +112,10 @@ fonts:
 
 logo:
   logo_text: "Honesty wild"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  logo_image: assets/images/logo/logo.svg
+  logo_image_mobile: assets/images/logo/logo-mobile.svg
+  logo_image_invert: assets/images/logo/logo-invert.svg
+  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.svg
   logo_image_desktop_height: "58px"
   logo_image_desktop_width: "184px"
   logo_image_mobile_height: "30px"
