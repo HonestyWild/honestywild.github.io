@@ -6,18 +6,18 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+      - name: "Mobile Game"
+        url: /services/Mobile Game/
+      - name: "AR/VR"
+        url: /services/AR/VR/
+      - name: "Content Creation Tool"
+        url: /services/Content Creation Tool/
+      - name: "Automotive"
+        url: /services/Automotive/
+      - name: "Visualization"
+        url: /services/Visualization/
+      - name: "Digital human"
+        url: /services/Digital human/
   - name: Projects
     url: /projects/
     weight: 2
