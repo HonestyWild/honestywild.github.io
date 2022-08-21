@@ -1,5 +1,5 @@
 ---
-title: "AR/VR"
+title: "AR,VR"
 description: "Understanding the needs of the user and creating product solutions."
 date: 2018-11-28T15:15:34+10:00
 weight: 2

@@ -8,8 +8,8 @@ main:
     child:
       - name: "Mobile Game"
         url: /services/Mobile Game/
-      - name: "AR/VR"
-        url: /services/AR/VR/
+      - name: "AR,VR"
+        url: /services/AR,VR/
       - name: "Content Creation Tool"
         url: /services/Content Creation Tool/
       - name: "Automotive"
