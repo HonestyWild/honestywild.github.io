@@ -1,5 +1,5 @@
 ---
-title: "Digital human"
+title: "Digital Human"
 description: "Building complex web applications and system software."
 date: 2019-10-03
 weight: 6
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "Digital human"
+  heading: "Digital Human"
   sub_heading: "Building complex web applications and system software."
   text_color: "#ffffff"
   background_color: ""
