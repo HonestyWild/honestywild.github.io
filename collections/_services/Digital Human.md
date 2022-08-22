@@ -2,7 +2,7 @@
 title: "Digital Human"
 description: "Building complex web applications and system software."
 date: 2019-10-03
-weight: 6
+weight: 3
 header_transparent: true
 fa_icon: "fab fa-codepen"
 icon: "assets/images/icons/icomoon-free_profile.png"

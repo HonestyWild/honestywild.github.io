@@ -10,14 +10,14 @@ main:
         url: /services/Mobile Game/
       - name: "AR/VR"
         url: /services/ARVR/
-      - name: "Content Creation Tool"
-        url: /services/Content Creation Tool/
+      - name: "Digital Human"
+        url: /services/Digital Human/
       - name: "Automotive"
         url: /services/Automotive/
       - name: "Visualization"
         url: /services/Visualization/
-      - name: "Digital Human"
-        url: /services/Digital Human/
+      - name: "Content Creation Tool"
+        url: /services/Content Creation Tool/
   - name: Projects
     url: /projects/
     weight: 2
