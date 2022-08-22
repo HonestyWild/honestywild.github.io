@@ -8,16 +8,16 @@ main:
     child:
       - name: "Mobile Game"
         url: /services/Mobile Game/
-      - name: "AR,VR"
-        url: /services/AR,VR/
+      - name: "AR/VR"
+        url: /services/ARVR/
       - name: "Content Creation Tool"
         url: /services/Content Creation Tool/
       - name: "Automotive"
         url: /services/Automotive/
       - name: "Visualization"
         url: /services/Visualization/
-      - name: "Digital human"
-        url: /services/Digital human/
+      - name: "Digital Human"
+        url: /services/Digital Human/
   - name: Projects
     url: /projects/
     weight: 2
