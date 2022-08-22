@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
+  heading: "Content Creation Tool"
   sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
   text_color: "#ffffff"
   background_color: ""
