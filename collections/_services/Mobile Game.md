@@ -6,7 +6,7 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/jam_gamepad-retro.png"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
+thumbnail: "/assets/images/gen/services/nassim-allia-ot-HSrLNTP0-unsplash.webp"
 image: "/assets/images/gen/services/service-1.webp"
 
 hero:
