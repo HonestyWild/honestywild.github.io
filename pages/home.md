@@ -8,8 +8,8 @@ meta_title: Honesty Wild - Interactive Content Developer
 
 hero:
   enabled: true
-  heading: "Honesty Wild"
-  sub_heading: "가상 공간으로 현실의 새로운 가치를 창출합니다."
+  heading: "IMMERSIVE EXPERIENCE<br>DESIGN STUDIO"
+  sub_heading: "We create games and special purpose XR contents"
   text_color: "#FFFFFF"
   background_color: "#295A52" #1d2830
   background_gradient: true
@@ -38,11 +38,11 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Services"
+  heading: "BUSINESS"
   sub_heading: ""
   limit: 3
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
+  view_more_button_text: "View All Business"
   view_more_button_link: "/services"
 
 intro:
@@ -93,7 +93,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  sub_heading: <a href="mailto:joon@honestywild.com">Contact Us</a>
   features:
     enabled: false
     list:
@@ -103,7 +103,7 @@ outro:
     enabled: true
     list:
       - text: "Contact Us"
-        url: "/contact"
+        url: "/Contact"
         external: false
         size: "large"
 

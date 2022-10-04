@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Services
+  - name: Business
     url: /services/
     weight: 1
     child:
@@ -57,7 +57,7 @@ footer_secondary:
     url: /about/
     weight: 2
   - name: Contact
-    url: /contact/
+    url: 
     weight: 3
 footer_tertiary:
   - name: Privacy Policy
