@@ -100,7 +100,7 @@ outro:
       - text: "Free Quote"
         fa_icon: "fas fa-envelope-open-text"
   buttons:
-    enabled: true
+    enabled: false
     list:
       - text: "Contact Us"
         url: "/Contact"
