@@ -57,7 +57,7 @@ footer_secondary:
     url: /about/
     weight: 2
   - name: Contact
-    url: 
+    url: "mailto:joon@honestywild.com"
     weight: 3
 footer_tertiary:
   - name: Privacy Policy

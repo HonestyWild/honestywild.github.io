@@ -9,7 +9,7 @@ meta_title: Honesty Wild - Interactive Content Developer
 hero:
   enabled: true
   heading: "IMMERSIVE EXPERIENCE<br>DESIGN STUDIO"
-  sub_heading: "We create games and special purpose XR contents"
+  sub_heading: "We create games and special purpose XR contents" # <br>다목적 실감 콘텐츠 및 게임 개발 전문 기업"
   text_color: "#FFFFFF"
   background_color: "#295A52" #1d2830
   background_gradient: true
@@ -93,17 +93,17 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: <a href="mailto:joon@honestywild.com">Contact Us</a>
+  sub_heading:
   features:
     enabled: false
     list:
       - text: "Free Quote"
         fa_icon: "fas fa-envelope-open-text"
   buttons:
-    enabled: false
+    enabled: true
     list:
       - text: "Contact Us"
-        url: "/Contact"
+        url: "mailto:joon@honestywild.com"
         external: false
         size: "large"
 
