@@ -18,12 +18,9 @@ main:
 #        url: /services/Visualization/
 #      - name: "Content Creation Tool"
 #        url: /services/Content Creation Tool/
-    - name: About
-      url: /about/
-      weight: 1
     - name: Projects
       url: /projects/
-      weight: 2
+      weight: 1
       child:
         - name: "Modern Office Design"
           url: /projects/modern-office-design/
@@ -35,7 +32,10 @@ main:
           url: /projects/subway-signage/
     - name: Blog
       url: /blog/
-      weight: 4
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
 footer_primary:
 #  - name: Home
 #    url: /

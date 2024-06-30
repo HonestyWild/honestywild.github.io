@@ -9,7 +9,7 @@ header_transparent: false
 hero:
   enabled: true
   heading: "Projects"
-  sub_heading: "Our portfolio of work and projects."
+  sub_heading: "Experiences we created"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
@@ -57,7 +57,7 @@ intro:
         style: "primary"
 
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: false
   heading: "Ready to get started?"

@@ -140,7 +140,7 @@ logo:
   logo_image_invert: assets/images/logo/logo-invert.svg
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.svg
   logo_image_desktop_height: "58px"
-  logo_image_desktop_width: "184px"
+  logo_image_desktop_width: "124px"
   logo_image_mobile_height: "30px"
   logo_image_mobile_width: "34px"
   show_logo_image_on_mobile: true
