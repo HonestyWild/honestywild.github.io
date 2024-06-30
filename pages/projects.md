@@ -4,7 +4,7 @@ collection: "projects"
 title: Projects
 description: "A selection of our work and projects."
 permalink: "/projects/"
-header_transparent: true
+header_transparent: false
 
 hero:
   enabled: true

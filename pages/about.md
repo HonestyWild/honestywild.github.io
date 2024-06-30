@@ -1,16 +1,16 @@
 ---
 layout: basic
 title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+date: 2024-06-30T15:30:30+09:00
 header_transparent: false
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Crafting Immersive Interactive Experiences with Unreal Engine"
 image: "/assets/images/gen/content/content-5.webp"
 
 hero:
   enabled: false
   heading: "About Us"
-  sub_heading: "Business plan hackathon handshake responsive web design."
+  sub_heading: "Crafting Immersive Interactive Experiences with Unreal Engine"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false
@@ -24,11 +24,9 @@ hero:
         size: large
 ---
 
-# Creating Modern Websites
+# Creating Immersive Interactive Content
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
-
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+For over 7 years, we have been at the forefront of interactive content creation in South Korea, leveraging the power of Unreal Engine to deliver unparalleled experiences for a diverse range of clients.
 
 ## What is Web Design?
 

@@ -1,64 +1,64 @@
 main:
-  - name: Home
-    url: /
-    weight: 1
-  - name: Business
-    url: /services/
-    weight: 1
-    child:
-      - name: "Mobile Game"
-        url: /services/Mobile Game/
-      - name: "AR/VR"
-        url: /services/ARVR/
-      - name: "Digital Human"
-        url: /services/Digital Human/
-      - name: "Automotive"
-        url: /services/Automotive/
-      - name: "Visualization"
-        url: /services/Visualization/
-      - name: "Content Creation Tool"
-        url: /services/Content Creation Tool/
-  - name: Projects
-    url: /projects/
-    weight: 2
-    child:
-      - name: "Modern Office Design"
-        url: /projects/modern-office-design/
-      - name: "Water Works"
-        url: /projects/water-works-project/
-      - name: "Opera House"
-        url: /projects/opera-house/
-      - name: "Subway Signage"
-        url: /projects/subway-signage/
-  - name: Blog
-    url: /blog/
-    weight: 4
-  - name: About
-    url: /about/
-    weight: 5
+#  - name: Home
+#    url: /
+#    weight: 1
+#  - name: Business
+#    url: /services/
+#    weight: 1
+#    child:
+#      - name: "Mobile Game"
+#        url: /services/Mobile Game/
+#      - name: "AR/VR"
+#        url: /services/ARVR/
+#      - name: "Digital Human"
+#        url: /services/Digital Human/
+#      - name: "Automotive"
+#        url: /services/Automotive/
+#      - name: "Visualization"
+#        url: /services/Visualization/
+#      - name: "Content Creation Tool"
+#        url: /services/Content Creation Tool/
+    - name: About
+      url: /about/
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 2
+      child:
+        - name: "Modern Office Design"
+          url: /projects/modern-office-design/
+        - name: "Water Works"
+          url: /projects/water-works-project/
+        - name: "Opera House"
+          url: /projects/opera-house/
+        - name: "Subway Signage"
+          url: /projects/subway-signage/
+    - name: Blog
+      url: /blog/
+      weight: 4
 footer_primary:
-  - name: Home
-    url: /
-    weight: 1
-  - name: Services
-    url: /services/
-    weight: 2
-  - name: Projects
-    url: /projects/
-    weight: 3
-  - name: Team
-    url: /team/
-    weight: 4
+#  - name: Home
+#    url: /
+#    weight: 1
+#  - name: Services
+#    url: /services/
+#    weight: 2
+#  - name: Team
+#    url: /team/
+#    weight: 4
 footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 1
   - name: About
     url: /about/
+    weight: 1
+  - name: Projects
+    url: /projects/
     weight: 2
-  - name: Contact
-    url: "mailto:joon@honestywild.com"
+  - name: Blog
+    url: /blog/
     weight: 3
+#  - name: Contact
+#    url: "mailto:joon@honestywild.com"
+#    weight: 3
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/

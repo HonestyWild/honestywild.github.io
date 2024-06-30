@@ -7,7 +7,7 @@
   background-color: var(--color-base-2);
   min-height: 300px;
   &.hero-gradient {
-    background-image: linear-gradient(to right, var(--color-primary), var(--color-secondary));
+    background-image: var(--color-base);
   }
   &.hero-fullscreen-desktop {
     @include media-breakpoint-up(md) {
@@ -28,6 +28,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
+    opacity: 0.5;
   }
   .container {
     z-index: 1;
@@ -37,12 +38,12 @@
     margin: auto 0;
     h1 {
       margin-bottom: 20px;
-      color: inherit;
+      color: var(--color-base-text);
       font-weight: 600;
       font-size: 56px;
     }
     p {
-      color: inherit;
+      color: var(--color-base-text);
       font-weight: 400;
       font-size: 26px;
       line-height: 1.4;

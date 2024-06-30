@@ -77,7 +77,7 @@
       padding: 4px 8px;
       border-radius: 3px;
       margin-right: 10px;
-      background-color: var(--color-primary);
+      background-color: var(--color-primary-2);
     }
   }
   .card-image {
@@ -122,6 +122,9 @@
     margin-bottom: 0px;
     h3 {
       font-size: 23px;
+      a {
+        color: var(--color-base-text);
+      }
     }
   }
   .card-thumbnail {

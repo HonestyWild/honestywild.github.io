@@ -2,12 +2,12 @@
 layout: home
 permalink: "/"
 title: "Honesty Wild"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+description: "We create experiences"
 header_transparent: true
 meta_title: Honesty Wild - Interactive Content Developer
 
 hero:
-  enabled: true
+  enabled: false
   heading: "IMMERSIVE EXPERIENCE<br>DESIGN STUDIO"
   sub_heading: "We create games and special purpose XR contents" # <br>다목적 실감 콘텐츠 및 게임 개발 전문 기업"
   text_color: "#FFFFFF"
@@ -37,7 +37,7 @@ hero:
         style: "light"
 
 services:
-  enabled: true
+  enabled: false
   heading: "BUSINESS"
   sub_heading: ""
   limit: 3

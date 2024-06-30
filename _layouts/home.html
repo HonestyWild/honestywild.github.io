@@ -2,6 +2,15 @@
 layout: default
 body_classes: page-home
 ---
+<head>
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+      if (window.location.pathname === "{{ site.baseurl }}/" || window.location.pathname === "/") {
+        window.location.href = "{{ site.baseurl }}/about";
+      }
+    });
+  </script>
+</head>
 
 {% if page.hero.enabled %}
   {% include framework/blocks/sections/hero.html

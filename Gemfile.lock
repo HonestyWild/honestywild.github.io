@@ -66,6 +66,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-23
   x64-mingw-ucrt
   x86_64-darwin-20
   x86_64-darwin-21
@@ -73,6 +74,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-environment-variables
+  jekyll-multiple-languages-plugin
   jekyll-paginate
   jekyll-youtube
   webrick (~> 1.7)

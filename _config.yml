@@ -19,7 +19,7 @@ paginate_path: "/blog/page/:num"
 
 collections:
   services:
-    output: true
+    output: false
     permalink: /:collection/:path/
   projects:
     output: true
@@ -63,7 +63,7 @@ defaults:
 
 # SCSS
 sass:
-  style: compact
+  style: compressed
 
 # Excludes
 exclude:
@@ -80,29 +80,51 @@ exclude:
 title: "Honestywild"
 category_dir: category
 
+#colors:
+#  #light-mode colors
+#  primary: "#2f2f2e" #"#000000" #
+#  primary_2: "#393F3E"
+#  primary_text: "#fdfcf9"
+#  secondary: "#2f4c47"
+#  background: "#ffffff"
+#  background_2: "#EEF4F3"
+#  background_3: "#D5E2E0"
+#  text: "#272727"
+#  text_2: "#383838"
+#
+#  # dark-mode colors
+#  primary_dark: "#759A93"
+#  primary_2_dark: "#131313"
+#  primary_text_dark: "#fdfcf9"
+#  secondary_dark: "#2f4c47"
+#  background_dark: "#131313"
+#  background_2_dark: "#131313"
+#  background_3_dark: "#222124"
+#  text_dark: "#EEF4F3"
+#  text_2_dark: "#D5E2E0"
+
 colors:
-  #light-mode colors
-  primary: "#295A52" #"#000000" #
-  primary_2: "#393F3E"
-  primary_text: "#fdfcf9"
-  secondary: "#2f4c47"
-  background: "#ffffff"
-  background_2: "#EEF4F3"
-  background_3: "#D5E2E0"
-  text: "#272727"
-  text_2: "#383838"
+  # light-mode colors
+  primary: "#1A1A1A"        # 미세하게 톤이 낮은 블랙
+  primary_2: "#2C2C2C"      # 다크 그레이
+  primary_text: "#F7F7F7"   # 약간의 톤이 있는 화이트
+  secondary: "#444444"      # 다크 그레이
+  background: "#FAFAFA"     # 톤이 낮은 화이트
+  background_2: "#E5E5E5"   # 라이트 그레이
+  background_3: "#CCCCCC"   # 라이트 그레이
+  text: "#1F1F1F"           # 거의 블랙
+  text_2: "#333333"         # 미디엄 그레이
 
   # dark-mode colors
-  primary_dark: "#759A93"
-  primary_2_dark: "#131313"
-  primary_text_dark: "#fdfcf9"
-  secondary_dark: "#2f4c47"
-  background_dark: "#131313"
-  background_2_dark: "#131313"
-  background_3_dark: "#222124"
-  text_dark: "#EEF4F3"
-  text_2_dark: "#D5E2E0"
-
+  primary_dark: "#121212"    # 톤이 낮은 화이트
+  primary_2_dark: "#1A1A1A"  # 다크 그레이
+  primary_text_dark: "#EAEAEA" # 밝은 톤의 화이트
+  secondary_dark: "#3C3C3C"   # 다크 그레이
+  background_dark: "#121212"  # 거의 블랙
+  background_2_dark: "#181818" # 다크 그레이
+  background_3_dark: "#222222" # 다크 그레이
+  text_dark: "#F5F5F5"        # 밝은 톤의 화이트
+  text_2_dark: "#D0D0D0"      # 라이트 그레이
 
 fonts:
   google_fonts: "https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&display=swap"
@@ -159,21 +181,20 @@ footer:
   footer_description: "Honesty Wild Inc."
   enable_social_media_icons: true
   enable_contact_details: true
-  enable_menu_footer_primary: true
+  enable_menu_footer_primary: false
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
   footer_primary_menu_title: "Product"
-  footer_secondary_menu_title: "Company"
+  footer_secondary_menu_title: "Pages"
   footer_tertiary_menu_title: "Other"
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2021 Zerostatic Themes"
+  copyright_text: "© 2024. Honesty Wild Inc. All rights reserved."
 
 sidebar:
-  enable_sidebar_services: true
-  enable_breadcrumbs_services: true
+  enable_sidebar_services: false
+  enable_breadcrumbs_services: false
   enable_sidebar_projects: false
   enable_breadcrumbs_projects: true
-
