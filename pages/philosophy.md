@@ -1,17 +1,17 @@
 ---
 layout: basic
-title: "We craft experiences"
+title: "Philosophy"
 date: 2024-06-30T15:30:30+09:00
 header_transparent: false
-permalink: "/about/"
-description: "for our users and your customers"
+permalink: "/philosophy/"
+description: "and what we believe in"
 image: "/assets/images/gen/content/content-5.webp"
 meta_title: Honsty Wild Inc.
 
 hero:
   enabled: true
-  heading: "We craft experiences" # "Philosophy"
-  sub_heading: "for our users and your customers" # "What we believe in"
+  heading: "Philosophy"
+  sub_heading: "What we believe in"
   background_image: false
   background_image_blend_mode: false
   full_height_mobile: false

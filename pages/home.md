@@ -1,36 +1,36 @@
 ---
 layout: home
 permalink: "/"
-title: "Honesty Wild"
-description: "We create experiences"
-header_transparent: true
-meta_title: Honesty Wild - Interactive Content Developer
+title: "당신을 위한<br>3D 콘텐츠 스튜디오"
+description: "우리는 어니스티와일드 입니다."
+header_transparent: false
+meta_title: 어니스티와일드
 
 hero:
-  enabled: false
-  heading: "IMMERSIVE EXPERIENCE<br>DESIGN STUDIO"
-  sub_heading: "We create games and special purpose XR contents" # <br>다목적 실감 콘텐츠 및 게임 개발 전문 기업"
+  enabled: true
+  heading: "언리얼 엔진 전문<br>3D 콘텐츠 스튜디오"
+  sub_heading: "더 나은 메타버스/디지털 트윈/게임/XR 경험을 위한 선택" # <br>다목적 실감 콘텐츠 및 게임 개발 전문 기업"
   text_color: "#FFFFFF"
-  background_color: "#295A52" #1d2830
-  background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
+  #background_color: "#295A52" #1d2830
+  background_gradient: false
+  #background_image: "/assets/images/gen/home/home-1-large.webp"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
-  height: "660px"
+  height: "880px"
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+      - text: "프로젝트"
+        url: "/projects/"
+        external: false
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
-      - text: "Documentation"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
-        external: true
+      - text: "개발 블로그"
+        url: "/blog/"
+        external: false
         fa_icon: false
         size: large
         outline: true
@@ -79,7 +79,7 @@ partners:
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
@@ -89,7 +89,7 @@ projects:
   view_more_button_link: "/projects"
 
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: false
   heading: Get Started Today
@@ -108,7 +108,7 @@ outro:
         size: "large"
 
 posts:
-  enabled: true
+  enabled: false
   heading: "Latest Posts"
   sub_heading: ""
   limit: 3

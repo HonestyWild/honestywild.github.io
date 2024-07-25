@@ -1,7 +1,7 @@
 main:
-#  - name: Home
-#    url: /
-#    weight: 1
+    - name: 홈
+      url: /
+      weight: 1
 #  - name: Business
 #    url: /services/
 #    weight: 1
@@ -18,10 +18,12 @@ main:
 #        url: /services/Visualization/
 #      - name: "Content Creation Tool"
 #        url: /services/Content Creation Tool/
-    - name: Projects
+    - name: 프로젝트
       url: /projects/
       weight: 1
       child:
+        - name: "Snaptoon"
+          url: /projects/snaptoon/
         - name: "Modern Office Design"
           url: /projects/modern-office-design/
         - name: "Water Works"
@@ -30,11 +32,11 @@ main:
           url: /projects/opera-house/
         - name: "Subway Signage"
           url: /projects/subway-signage/
-    - name: Blog
+    - name: 블로그
       url: /blog/
       weight: 2
-    - name: About
-      url: /about/
+    - name: 어바웃
+      url: /philosophy/
       weight: 3
 footer_primary:
 #  - name: Home
