@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'sass-embedded', '>= 1.77.0'
 gem 'jekyll-environment-variables'
 gem 'jekyll-paginate'
 gem "webrick", "~> 1.7"
