@@ -21,20 +21,27 @@ hero:
   buttons:
     enabled: true
     list:
-      - text: "프로젝트"
-        url: "/projects/"
+      - text: "홈페이지 리뉴얼 중입니다."
+        url: "/"
         external: false
         fa_icon: false
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
-      - text: "개발 블로그"
-        url: "/blog/"
-        external: false
-        fa_icon: false
-        size: large
-        outline: true
-        style: "light"
+      # - text: "프로젝트"
+      #   url: "/projects/"
+      #   external: false
+      #   fa_icon: false
+      #   size: large # "small", "normal", "large"
+      #   outline: false
+      #   style: "light" # "light", "dark", "primary"
+      # - text: "개발 블로그"
+      #   url: "/blog/"
+      #   external: false
+      #   fa_icon: false
+      #   size: large
+      #   outline: true
+      #   style: "light"
 
 services:
   enabled: false

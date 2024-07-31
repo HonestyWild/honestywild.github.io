@@ -1,7 +1,7 @@
 ---
-title: "Snaptoon"
-description: "효율적인 웹툰 배경 디자인 툴"
-date: 2024-07-10
+title: "Visionscape"
+description: "스튜디오 예약과 운반이 필요없는 제품 촬영 서비스"
+date: 2024-07-26
 weight: 1
 header_transparent: true
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
@@ -10,8 +10,8 @@ client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Snaptoon"
-  sub_heading: "효율적인 웹툰 배경 디자인 툴"
+  heading: "Visionscape"
+  sub_heading: "스튜디오 예약과 운반이 필요없는 제품 촬영 서비스"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false

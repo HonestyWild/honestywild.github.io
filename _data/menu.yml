@@ -18,26 +18,30 @@ main:
 #        url: /services/Visualization/
 #      - name: "Content Creation Tool"
 #        url: /services/Content Creation Tool/
-    - name: 프로젝트
-      url: /projects/
-      weight: 1
-      child:
-        - name: "Snaptoon"
-          url: /projects/snaptoon/
-        - name: "Modern Office Design"
-          url: /projects/modern-office-design/
-        - name: "Water Works"
-          url: /projects/water-works-project/
-        - name: "Opera House"
-          url: /projects/opera-house/
-        - name: "Subway Signage"
-          url: /projects/subway-signage/
-    - name: 블로그
-      url: /blog/
-      weight: 2
-    - name: 어바웃
-      url: /philosophy/
-      weight: 3
+    # - name: 프로젝트
+    #   url: /projects/
+    #   weight: 1
+    #   child:
+    #     - name: "Meta Showroom"
+    #       url: /projects/meta-showroom/
+    #     - name: "Visionscape"
+    #       url: /projects/visionscape/
+    #     - name: "Twin Office"
+    #       url: /projects/twin-office/
+    #     - name: "Easy Camera Works"
+    #       url: /projects/easy-camera-works/
+    #     - name: "Human Task Manager"
+    #       url: /projects/opera-house/
+    #     - name: "Secret Garden"
+    #       url: /projects/secret-garden/
+    #     - name: "Snaptoon"
+    #       url: /projects/snaptoon/
+    # - name: 블로그
+    #   url: /blog/
+    #   weight: 2
+    # - name: 어바웃
+    #   url: /philosophy/
+    #   weight: 3
 footer_primary:
 #  - name: Home
 #    url: /

@@ -1,17 +1,17 @@
 ---
-title: "Snaptoon"
-description: "효율적인 웹툰 배경 디자인 툴"
-date: 2024-07-10
+title: "Meta Showroom"
+description: "공간에 대한 새로운 소통 방식"
+date: 2024-07-26
 weight: 1
 header_transparent: true
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/meta-showroom/thumbnail.jpg"
 image: "/assets/images/gen/projects/project-1-1.webp"
 client: "Zero Developments Pty Ltd"
 
 hero:
   enabled: true
-  heading: "Snaptoon"
-  sub_heading: "효율적인 웹툰 배경 디자인 툴"
+  heading: "Meta Showroom"
+  sub_heading: "공간에 대한 새로운 소통 방식"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: false
